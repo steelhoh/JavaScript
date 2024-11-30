@@ -1,0 +1,6 @@
+function converter(num) {
+    let ammount = Number(num)
+    console.log(ammount * 1.79549)
+}
+
+converter(100)
